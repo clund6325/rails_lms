@@ -14,3 +14,8 @@ has one, one to one relationship
 has many through, many to many relationship
   billboard has many songs, through artists
   songs has many billboards, through artists
+
+  User is a parent
+  Course is a parent
+
+  Enrollment would be a child of courses
